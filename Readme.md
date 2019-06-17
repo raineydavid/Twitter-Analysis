@@ -43,7 +43,8 @@ Contiene la funcion que prepara los tweets obtenidos y guardados en un archivo c
 
 
 
+###### Los archivos que se muestran como ejemplos en el codigo los podeis encontrar [aqui](https://drive.google.com/drive/folders/1sb_kMnyRKRgByDTUeUdGHD6k58ae7sK1?usp=sharing)
 
-###### *Actualmente twitter bloquea las peticiones de la api durante 15 min cada vez que se superan las 75.000 extracciones por lo que se ha realizado el codigo con una red pequeña para poder extrapolarlo a una red mas grande que superara las 48 h de ejecución.
+###### *Actualmente twitter bloquea las peticiones de la api durante 15 min cada vez que se superan las 75.000 extracciones por lo que se por lo que se avisa que de ejecutar todo el proceso este se demorará horas e incluso días en funcion del número de seguidores del usuario que se quiera analizar.
 
 ######  Agradecimientos a la comunidad de desarrolladores de internet y en particular a la comunidad de la tan socorrida y util llamada Stackoverflow y A los profesores del master de Kschool: en especial a Daniel Mateos y a Sebastien Perez los cuales no han tenido ningun reparo en poner a nuestra disposición todos sus conocimientos.
