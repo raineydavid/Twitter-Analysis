@@ -32,7 +32,7 @@ Contiene la funcion que prepara los tweets obtenidos y guardados en un archivo c
 
 8. [Visualization](https://github.com/SergioMedBron/-TFM-Analisis-del-discurso-politico-en-Twitter/blob/master/Visualization.ipynb): Contiene la funcion que creará el archivo HTML interactivo de la red del usuario [Carlos0520683grahp.html](https://github.com/SergioMedBron/-TFM-Analisis-del-discurso-politico-en-Twitter/blob/master/Carlos0520683grahp.html)
 
-9. [Complete](https://github.com/SergioMedBron/-TFM-Analisis-del-discurso-politico-en-Twitter/blob/master/Complete.ipynb): Unifica las funciones creadas anteriormente, y añade la función de que perfila los distintos nodos en función del sentimiento** y devuelve la visualización en un archivo html interactivo.
+9. [Complet](https://github.com/SergioMedBron/-TFM-Analisis-del-discurso-politico-en-Twitter/blob/master/Complet.ipynb): Unifica las funciones creadas anteriormente, y añade la función de que perfila los distintos nodos en función del sentimiento** y devuelve la visualización en un archivo html interactivo.
 
 
 
@@ -45,7 +45,7 @@ Contiene la funcion que prepara los tweets obtenidos y guardados en un archivo c
 
 ###### Los archivos que se muestran como ejemplos en el codigo los podeis encontrar [aqui](https://drive.google.com/drive/folders/1sb_kMnyRKRgByDTUeUdGHD6k58ae7sK1?usp=sharing)
 
-###### *Se ha determinado que se creen ficheros adicionales ya que de otro modo puede colapsar la memoria
+###### *Se ha determinado que se creen ficheros adicionales ya que de otro modo puede colapsar la memoria, es necesario tener más de 8 gb de ram para poder crear la red de sentimiento de los seguidores
 
 ###### **Actualmente twitter bloquea las peticiones de la api durante 15 min cada vez que se superan las 75.000 extracciones por lo que se por lo que se avisa que de ejecutar todo el proceso este se demorará horas e incluso días en funcion del número de seguidores del usuario que se quiera analizar. 
 
